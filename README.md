@@ -12,4 +12,4 @@ My first repository
 | Occupation | Professional hitman Vigilante |
 | Gender | Male |
 
-[For more details.][(https://www.example.com)](https://en.wikipedia.org/wiki/John_Wick)
+[For more details.](https://en.wikipedia.org/wiki/John_Wick)
